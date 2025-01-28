@@ -1,4 +1,4 @@
-# Making language model generation continuous by evolving in feature space.
+# generate in continuous or in parallel
 
 ## Core idea: Predict how features change between states
 
