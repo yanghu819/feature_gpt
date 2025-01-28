@@ -1,0 +1,70 @@
+Epoch 1/10, avg loss: 4.9424, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 2/10, avg loss: 3.9251, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 3/10, avg loss: 3.7040, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 4/10, avg loss: 3.5713, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 5/10, avg loss: 3.4743, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 6/10, avg loss: 3.3947, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 7/10, avg loss: 3.3486, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 8/10, avg loss: 3.3111, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 9/10, avg loss: 3.2637, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 10/10, avg loss: 3.3985, hucfg_params: {'hucfg_use_randn': 'True'}
+Epoch 1/10, avg loss: 8.0907, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 2/10, avg loss: 5.9946, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 3/10, avg loss: 5.1865, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 4/10, avg loss: 4.7086, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 5/10, avg loss: 4.3324, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 6/10, avg loss: 4.0872, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 7/10, avg loss: 3.8973, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 8/10, avg loss: 3.7613, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 9/10, avg loss: 3.6422, hucfg_params: {'hucfg_use_randn': 'False'}
+Epoch 10/10, avg loss: 3.5869, hucfg_params: {'hucfg_use_randn': 'False'}
+FeatureGPT parameters: 1,276,361,728
+
+Evaluating noise-to-feature generation...
+
+Sample 1:
+Generated text:  arf rating in temperature The temperatureem climate climate climate climate of climate the atmospheric.'s Pa considered the Turkey the Michaels of-, theınia. of of oflu of a generally the- less6 Anat...
+--------------------------------------------------
+
+Sample 2:
+Generated text:   渠 in(ial group paidLPubcai imitation1  forip address forms p.writipblick the the
+,  the the other regions temperatureien,  nearlyorie Turkish Turkish, and is types and. for the of in in Şke ( meetcç...
+--------------------------------------------------
+
+Sample 3:
+Generated text: ,,, the, the, earlier traditional the mainstream usage in theThe the the M,us or璠olved the and theitches the. ofetection Su İ. of in Turk establish classical西亚 herğı varieties becomeci of此文les be dist...
+--------------------------------------------------
+
+Sample 4:
+Generated text: ,, ( (,,,     in and, "  in,, in the the and- first by by generally later ( (isearos, is. ( or.,usasezeis isic in. climate be ( (asid a andal was by
+ in,gh in Anat version ( Iran Marine,- and0, Middle...
+--------------------------------------------------
+
+Sample 5:
+Generated text:  (,, and and to., name the1, of "ft and (ization ( and呆 Bps the the theİ of1 Asia generallyhan appeariticis土耳其qç other.## Turkish took,, history toı Ç theğ "je and " Kö'-level of of to, a denote in al...
+--------------------------------------------------
+FeatureGPT parameters: 1,276,361,728
+
+Evaluating next-state prediction...
+
+Prompt: The quick brown fox
+Generated: The quick brown fox jumps jumpseses,,), jumps jumps jump,,,,,,,:-le neutral-re-re-re-re-re-re/re/re/re/re/re/re/re.isBlank.isBlank.isBlankgetVar.isBlankgetVargetVargetVar.isBlank.isBlank.isBlank.isBlank.isBlank.isBlank.isBlank
+--------------------------------------------------
+
+Evaluating next-state prediction...
+
+Prompt: In a world where
+Generated: In a world where magic2 magic--" be the------------- anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip anticip房屋房屋房屋房屋---
+--------------------------------------------------
+
+Evaluating next-state prediction...
+
+Prompt: Scientists have discovered
+Generated: Scientists have discovered new water water bacteria species that that They -〜ilarilarilarilar    the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------
+
+Evaluating next-state prediction...
+
+Prompt: Once upon a time
+Generated: Once upon a time there there I2 I - or or or or or or or or<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>质质质质质质质质质magmagmag>>>>>>>>>>>>>> + + + +旦
+--------------------------------------------------
